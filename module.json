@@ -1,0 +1,19 @@
+{
+    "name": "foundry-element-chat",
+    "title": "Foundry Element Chat",
+    "description": "Integrates FoundryVTT chat with Element using webhooks.",
+    "author": "Your Name",
+    "version": "1.0",
+    "scripts": ["foundry-element-chat.js"], // The name of your JavaScript file
+    "settings": [
+      {
+        "key": "webhookUrl",
+        "name": "Webhook URL",
+        "hint": "The URL of your n8n webhook endpoint.",
+        "scope": "world",
+        "type": "String",
+        "default": "",
+        "config": true
+      }
+    ]
+  }
