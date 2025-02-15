@@ -5,6 +5,7 @@
     "author": "esquire the duke",
     "version": "1.0",
     "scripts": ["foundry-element-chat.js"], 
+    "download": "https://github.com/Esquiretheduke/foundry-to-n8n/blob/main/foundry-element-chat.zip",
     "settings": [
       {
         "key": "webhookUrl",
