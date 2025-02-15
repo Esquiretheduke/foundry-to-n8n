@@ -4,7 +4,7 @@
     "description": "Integrates FoundryVTT chat with Element using webhooks.",
     "author": "esquire the duke",
     "version": "1.0",
-    "scripts": ["foundry-element-chat.js"], // The name of your JavaScript file
+    "scripts": ["foundry-element-chat.js"], 
     "settings": [
       {
         "key": "webhookUrl",
